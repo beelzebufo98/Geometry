@@ -1,7 +1,8 @@
 #pragma once
+#include "ishape.h"
 #include "vector.h"
 #include "segment.h"
-#include "ishape.h"
+
 
 namespace geometry {
 
